@@ -50,7 +50,7 @@ Require to model the price of houses with the available independent variables. T
 -- Thanks you Upgrad Team
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@SarikaSakore] - feel free to contact me!
 
 
 <!-- Optional -->
